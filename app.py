@@ -71,6 +71,7 @@ if st.button("Show Recommendations"):
 
 
 st.markdown(
-   "<p style='text-align: center; font-size:14px;'> Made with 💡 by <b>Ankit Sarkar</b></p>",
+   "<p style='text-align: center; font-size:14px;'> Made with 💡 by <b>Kushagra Tripathi</b></p>",
    unsafe_allow_html=True
 )
+
